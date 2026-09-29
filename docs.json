@@ -18,8 +18,9 @@
             "pages": [
               "jobs",
               "jobs/account-executive",
-              "jobs/content-writer",
-              "jobs/frontend-engineer"
+              "jobs/full-stack-product-engineer",
+              "jobs/infrastructure-devops-engineer",
+              "jobs/content-writer"
             ]
           }
         ]
